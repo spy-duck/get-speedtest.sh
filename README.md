@@ -10,3 +10,8 @@ wget https://raw.githubusercontent.com/spy-duck/get-speedtest.sh/refs/heads/main
 ```shell
 ./get-speedtest.sh -s
 ```
+
+## Download
+```shell
+wget https://raw.githubusercontent.com/spy-duck/get-speedtest.sh/refs/heads/main/get-speedtest.sh && chmod +x ./get-speedtest.sh && ./get-speedtest.sh -s
+```
